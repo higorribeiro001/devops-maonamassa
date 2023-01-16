@@ -1,0 +1,12 @@
+Acesso a maquina virtual que criamos:
+
+no powershell:
+
+cd vagrant-lab
+
+vagrant ssh
+
+depois:
+
+pwd
+

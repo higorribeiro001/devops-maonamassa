@@ -1,0 +1,14 @@
+adicionar o projeto ao github:
+
+criar o repositorio
+
+abrir o projeto no terminal
+
+echo "# devops-maonamassa" >> README.md 
+git init 
+git add README.md 
+git add vagrant-lab
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/higorribeiro001/devops-maonamassa. git
+git push -u origin main
