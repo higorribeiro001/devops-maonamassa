@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/Higor/Documents/Curso-de-DevOps-introdutorio-da-Udemy/vagrant-lab","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
